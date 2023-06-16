@@ -1,0 +1,23 @@
+{
+  "name": "react-i18n",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "i18next": "23.1.0",
+    "i18next-browser-languagedetector": "7.0.2",
+    "i18next-xhr-backend": "3.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "13.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.37",
+    "@types/react-dom": "18.0.11",
+    "@vitejs/plugin-react": "4.0.0",
+    "vite": "4.3.9"
+  }
+}
