@@ -1,4 +1,4 @@
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from "react-i18next";
 
 function App() {
   const { i18n, t } = useTranslation();
@@ -15,7 +15,7 @@ function App() {
         <option value="pt">Portuguese</option>
       </select>
 
-      <p>{t('welcome')}</p>
+      <p>{t("welcome")}</p>
     </>
   );
 }
