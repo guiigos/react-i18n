@@ -2,19 +2,6 @@
 
 This simple project was created to exemplify the use internationalization with **react** using [*i18next*](https://www.npmjs.com/package/i18next). This project has no functional objective, just a brief implementation example.
 
-<details>
-  <summary>
-    <strong>:pushpin: Menu</strong>
-  </summary>
-  <br>
-  
-> - [_**Usage**_](#usage)
->   - [_Dependencies_](#dependencies)
->   - [_Scripts_](#scripts)
-> - [_**License**_](#license)
-  
-</details>
-
 ## Usage
 ### Dependencies
 
